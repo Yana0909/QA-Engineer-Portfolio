@@ -1,0 +1,65 @@
+{
+  "members": [
+{
+  "ID": "205",
+  "Name": "Yana",
+  "City": "Kherson",
+  "Adress": {
+    "Street": "Shevchenko",
+    "Building number": "20",
+    "Apartment number": "59"
+},
+  "Contacts": {
+    "Phone number": "403770090",
+    "Email": "1993sam1993@gmal.com",
+    "Skype": "@yana111"
+}
+},
+{
+  "ID": "206",
+  "Name": "Alex",
+  "City": "Odesa",
+  "Adress": {
+    "Street": "Budova",
+    "Building number": "1",
+    "Apartment number": "55"
+},
+  "Contacts": {
+    "Phone number": "403221011",
+    "Email": "alexh1989@gmal.com",
+    "Skype": "@alex5"
+}
+},
+{
+  "ID": "207",
+  "Name": "Olesya",
+  "City": "Kharkiv",
+  "Adress": {
+    "Street": "Sadova",
+    "Building number": "44",
+    "Apartment number": "21"
+},
+  "Contacts": {
+    "Phone number": "403101099",
+    "Email": "olesya1900@gmal.com",
+    "Skype": "@olesya90"
+}
+},
+{
+  "ID": "208",
+  "Name": "Dmytro",
+  "City": "Kyiv",
+  "Adress": {
+    "Street": "Khreshchatyk",
+    "Building number": "89",
+    "Apartment number": "5"
+},
+  "Contacts": {
+    "Phone number": "403101000",
+    "Email": "dmytro99@gmal.com",
+    "Skype": "@dmytro99"
+}
+}
+]
+}
+

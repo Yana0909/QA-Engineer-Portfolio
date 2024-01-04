@@ -1,0 +1,58 @@
+<people>
+<person id="205">
+  <name>Yana</name>
+  <city>Kherson</city>
+  <address>
+    <street>Shevchenko</street>
+    <house>20</house>
+    <apartment>59</apartment>
+  </address>
+  <contacts>
+    <phone>403770090</phone>
+    <email>1993sam1993@gmail.com</email>
+    <skype>@yana111</skype>
+  </contacts>
+</person>
+<person id="206">
+  <name>Alex</name>
+  <city>Odesa</city>
+  <address>
+    <street>Budova</street>
+    <house>1</house>
+    <apartment>55</apartment>
+  </address>
+  <contacts>
+    <phone>403221011</phone>
+    <email>alexh1989@gmail.com</email>
+    <skype>@alex5</skype>
+  </contacts>
+</person>
+<person id="207">
+  <name>Olesya</name>
+  <city>Kharkiv</city>
+  <address>
+    <street>Sadova</street>
+    <house>44</house>
+    <apartment>21</apartment>
+  </address>
+  <contacts>
+    <phone>403101099</phone>
+    <email>olesya1900@gmail.com</email>
+    <skype>@olesya90</skype>
+  </contacts>
+</person>
+<person id="208">
+  <name>Dmytro</name>
+  <city>Kyiv</city>
+  <address>
+    <street>Khreshchatyk</street>
+    <house>89</house>
+    <apartment>5</apartment>
+  </address>
+  <contacts>
+    <phone>403101000</phone>
+    <email>dmytro99@gmail.com</email>
+    <skype>@dmytro99</skype>
+  </contacts>
+</person>
+</people>
